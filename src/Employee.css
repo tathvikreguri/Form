@@ -1,0 +1,53 @@
+.sp-error {
+    color: red;
+    font-size: 15px;
+    margin-top: 5px;
+  }
+  .back{
+   background-color: #f9f9f9;
+   padding-top:30px;
+  }
+.text2{
+  text-align:center;
+}
+  .form-space{
+    margin: 0 auto;
+    padding: 15px;
+    border: 1px solid #ccc;
+    color:white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: skyblue;
+    font-family: Arial, sans-serif;
+    margin-top:10px;
+  }
+  .dob{
+    color:#ccc;
+  }
+
+  .form-space label,
+.form-space input,
+.form-space button {
+  margin-bottom: 10px;
+}
+
+.form-space input {
+  padding: 8px;
+  width: 100%;
+  max-width: 400px;
+  box-sizing: border-box;
+}
+
+
+  .form-space button:hover{
+background-color: #45a049;;
+  }
+
+  .input-error {
+    border: 2px solid red;
+    box-sizing: border-box;
+  }
+
+  input[type="date"] {
+    color: gray; 
+  }
